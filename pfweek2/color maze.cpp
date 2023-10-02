@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std; 
 main(){
 system("color 14");
 cout <<"######################################################################"<<endl;

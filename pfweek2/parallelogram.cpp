@@ -8,4 +8,4 @@ cout <<"   T                                T    " <<endl;
 cout <<"  T                                T     " <<endl;
 cout <<" T                                T      " <<endl;
 cout <<"TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT       " <<endl;
-}
+} 
